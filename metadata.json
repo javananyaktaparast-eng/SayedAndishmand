@@ -1,0 +1,6 @@
+{
+  "name": "SayedAndishmand",
+  "description": "SayedAndishmand is a premium educational platform specializing in Trading & Forex, Graphic Design & Video Editing, Freelancing, and Artificial Intelligence, complete with an interactive admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
